@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://catatan-transisi-inklusif.statichost.page/sitemap.xml
